@@ -1,4 +1,4 @@
-# Singleton-Behavior
+# Unity-Singleton-Behavior
 Easily transform your MonoBehavior classes into singletons.
 
 ## How to install
@@ -6,13 +6,9 @@ This package can be installed through the Unity `Package Manager` with Unity ver
 
 Open up the package manager `Window/Package Manager` and click on `Add package from git URL...`.
 
-![unity_package_manager_git_drop_down](Documentation~/images/unity_package_manager_git_drop_down.png)
-
 Paste in this repository's url.
 
-`https://github.com/Jason-Skillman/Singleton-Behavior.git`
-
-![unity_package_manager_git_with_url](Documentation~/images/unity_package_manager_git_with_url.png)
+`https://github.com/Jason-Skillman/Unity-Singleton-Behavior.git`
 
 Click `Add` and the package will be installed in your project.
 
@@ -29,7 +25,7 @@ If you are using Unity 2019.2 or lower than you will not be able to install the 
 Alternatively you can also install this package as a git submodule.
 
 ```console
-$ git submodule add https://github.com/Jason-Skillman/Singleton-Behavior.git Packages/Singleton-Behavior
+$ git submodule add https://github.com/Jason-Skillman/Unity-Singleton-Behavior.git Packages/Singleton-Behavior
 ```
 
 ## Singleton behavior
